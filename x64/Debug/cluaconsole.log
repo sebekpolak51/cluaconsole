@@ -1,0 +1,4 @@
+﻿  cluaconsole.c
+D:\Visual Studio\2022\Projects\cluaconsole\cluaconsole.c(47,33): warning C4244: 'initializing': conversion from 'lua_Number' to 'const float', possible loss of data
+D:\Visual Studio\2022\Projects\cluaconsole\cluaconsole.c(63,32): warning C4244: 'initializing': conversion from 'lua_Number' to 'const float', possible loss of data
+  cluaconsole.vcxproj -> D:\Visual Studio\2022\Projects\cluaconsole\x64\Debug\cluaconsole.exe
